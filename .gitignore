@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -47,12 +48,26 @@ ExportedObj/
 *.tmp
 *.user
 *.userprefs
+=======
+Library/
+Temp/
+Logs/
+UserSettings/
+obj/
+Build/
+Builds/
+*.csproj
+*.sln
+*.unityproj
+*.user
+>>>>>>> Stashed changes
 *.pidb
 *.booproj
 *.svd
 *.pdb
 *.mdb
 *.opendb
+<<<<<<< Updated upstream
 *.VC.db
 
 # Unity3D generated meta files
@@ -97,3 +112,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+=======
+*.VC.db
+>>>>>>> Stashed changes
