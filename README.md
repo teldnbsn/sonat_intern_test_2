@@ -5,7 +5,7 @@
 
 ### Level 2
 - Larger board
-- Contains **special blocks** that rotate direction every move made
+- Contains **special blocks** (unique arrow color) that rotate direction every move made
 
 ### Level 3
 - 6×6 board with **checkerboard layout**
