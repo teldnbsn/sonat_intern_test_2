@@ -9,6 +9,6 @@
 
 ### Level 3
 - 6×6 board with **checkerboard layout**
-- Contains **frozen blocks** (with a **key** mark since just for illustration) that can be broken in two ways:
+- Contains **frozen blocks** (with a **key** mark just for illustration) that can be broken in two ways:
   - Clicking the frozen block
   - Another block sliding into it
